@@ -1,0 +1,18 @@
+@charset "utf-8";
+.my-class {
+color:#5ABA7D
+}
+.my-class2 {
+font-size: 20px;
+background-color:yellowgreen;
+text-align: center
+}
+#my-id {
+background-color:cadetblue;
+}
+.my-container {
+	text-align: center;
+	padding: 20px; 
+	border: 5px solid #645CFC;
+	margin-bottom: 20px;
+}
