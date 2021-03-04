@@ -1,3 +1,4 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 .my-class {
 color:#5ABA7D
@@ -11,7 +12,21 @@ text-align: left;
 }
 
 .my-container {
-	text-align: center; 
-	border: 5px solid #645CFC;
-	margin-bottom: 20px;
+text-align: center; 
+border: 5px solid #645CFC;
+background-size: cover;
+margin: 10px auto;
+margin-bottom: 50px;
+}
+
+.my-container {
+background-image: url(../images/photo2.jpg);
+background-repeat: no-repeat;
+max-width: 100%;
+max-height: 100%;
+display: block;
+}
+
+body {
+font-family: 'Poppins', sans-serif;
 }
